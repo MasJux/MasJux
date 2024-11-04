@@ -1,12 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&letterSpacing=2px&duration=6000&pause=1&color=13F768&center=true&width=435&height=27&lines=%F0%9F%91%8B+Hey%2C+I'm+Maciek)](https://git.io/typing-svg)
-<hr></hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=masjux&show_icons=true&locale=en" alt="masjux" /></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=30&letterSpacing=2px&duration=3000&pause=50&color=13F768&repeat=false&width=846&height=39&lines=%F0%9F%91%8B+Hey%2C+I'm+Maciek)](https://git.io/typing-svg)
+<hr />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&letterSpacing=2px&duration=4000&pause=4000&color=13F768&repeat=false&width=846&height=39&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+me)](https://git.io/typing-svg)
+
+
+<div align="left">
 💬 I'm a passionate about programming, specializing in React.js and Java.<br>🔭 I’m working on devGaming a commercial role-play game based on alt:v.<br>🌱 Currently expanding my expertise in both front-end and back-end technologies using React.js and Java.
+</div>
+<br></br>
 
-# 🌐 Socials:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&letterSpacing=2px&duration=3800&pause=4000&color=13F768&repeat=false&width=846&height=39&lines=%F0%9F%8C%90+Socials)](https://git.io/typing-svg)
+<div align="left">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maciej-zi%C3%B3%C5%82kowski-411623301) 
+<br></br>
+</div>
 
-# 💻 Tech Stack:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&letterSpacing=2px&pause=4000&color=13F768&repeat=false&width=846&height=39&lines=%F0%9F%92%BB+Tech+Stack)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -38,4 +49,5 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
+  <br></br>
 </div>
