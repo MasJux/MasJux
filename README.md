@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&letterSpacing=2px&duration=3800&pause=4000&color=13F768&repeat=false&width=846&height=39&lines=%F0%9F%8C%90+Socials)](https://git.io/typing-svg)
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/maciej-ziółkowski-411623301/](https://www.linkedin.com/in/maciej-ziółkowski-411623301/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maciej-ziółkowski-411623301/) 
 <br></br>
 </div>
 
