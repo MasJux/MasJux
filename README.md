@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey, I'm Maciek<br><br>💬 I'm a passionate about programming, specializing in React.js and Java.<br>🔭 I’m working on devGaming a commercial role-play game based on alt:v.<br>🌱 Currently expanding my expertise in both front-end and back-end technologies using React.js and Java.
+# 💫 👋 Hey, I'm Maciek
+💬 I'm a passionate about programming, specializing in React.js and Java.<br>🔭 I’m working on devGaming a commercial role-play game based on alt:v.<br>🌱 Currently expanding my expertise in both front-end and back-end technologies using React.js and Java.
 
 
 # 💻 Tech Stack:
