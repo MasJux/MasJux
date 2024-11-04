@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=1&color=13F768&repeat=false&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Maciek)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&letterSpacing=2px&duration=6000&pause=1&color=13F768&center=true&width=435&height=27&lines=%F0%9F%91%8B+Hey%2C+I'm+Maciek)](https://git.io/typing-svg)
+<hr></hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=masjux&show_icons=true&locale=en" alt="masjux" /></p>
 💬 I'm a passionate about programming, specializing in React.js and Java.<br>🔭 I’m working on devGaming a commercial role-play game based on alt:v.<br>🌱 Currently expanding my expertise in both front-end and back-end technologies using React.js and Java.
 
