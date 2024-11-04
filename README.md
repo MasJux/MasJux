@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Maciek
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=masjux&show_icons=true&locale=en" alt="masjux" /></p>
-<br></br>
 💬 I'm a passionate about programming, specializing in React.js and Java.<br>🔭 I’m working on devGaming a commercial role-play game based on alt:v.<br>🌱 Currently expanding my expertise in both front-end and back-end technologies using React.js and Java.
 
 # 🌐 Socials:
